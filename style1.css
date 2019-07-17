@@ -1,0 +1,15 @@
+.education tr td {
+    padding :4px;
+     border: 1px solid black;
+}
+.container {
+    border-style: solid;
+     padding :20px;
+     background: aliceblue;
+     width: 1000px;
+  border: 8px solid black;
+  padding: 100px;
+  margin: auto;
+  
+
+}
